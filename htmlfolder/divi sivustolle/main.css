@@ -1,0 +1,45 @@
+.test {
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    background-color: black;
+
+    
+
+}
+
+
+.iso {
+    left: 25%;
+    width: 75%;
+    height: 90%;
+    position: absolute;
+    background-color: antiquewhite; 
+}
+
+.sivu {
+    top: 50%;
+    position: absolute;
+    width: 24.40%;
+    height: 41.6%;
+    background-color: rgb(255, 14, 14);
+
+
+}
+
+.some {
+
+    font-size: larger;
+    bottom: 0%;
+    position: absolute;
+    width: 100%;
+    height: 10%;
+    background-color: blue;
+}
+
+
+
+
+
+
+
